@@ -1,0 +1,8 @@
+target/
+test-output/
+.classpath
+.project
+.settings/
+.metadata/
+buildall/
+*.class
